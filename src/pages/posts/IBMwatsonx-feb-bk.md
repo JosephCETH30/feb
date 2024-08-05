@@ -8,7 +8,7 @@ updatedAt: 1663636038883
 tags:
   - Perbankan dan Keuangan
 heroImage: https://static01.nyt.com/images/2021/07/16/business/16Watson-01/merlin_190903830_f0aa9789-8002-4443-889b-cf52a2291890-articleLarge.jpg
-slug: teknikinformatika
+slug: ekonomibisnis
 ---
 
 The use of AI-generated simulations allows project teams to make informed construction and design choices by leveraging data-driven insights on possible outcomes and alternatives.
